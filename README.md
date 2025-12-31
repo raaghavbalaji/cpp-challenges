@@ -7,6 +7,7 @@ Topics include:
 - Functions
 - Arrays
 - Strings
-- Pointers
-- OOP
+- Points and Vectors
+- Map and Sets
+- OOPS
 - Small Projects
