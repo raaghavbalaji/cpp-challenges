@@ -1,1 +1,1 @@
-# pointers and vectors challanges
+# pointers and vectors challenges
